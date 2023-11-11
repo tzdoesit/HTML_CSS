@@ -1,0 +1,126 @@
+/* 
+/* exercise 1: */
+
+/* .style1 {
+    color:white;
+    background-color:red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+} */
+
+/* ------------------------------------------------------------------ */
+/* exercise 2: */
+
+/* * {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd-elements {
+    background-color: rgb(255, 192, 203);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odd-elements.subsection {
+    font-size: 24px;
+}
+
+#num2 {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: #adff2f; font-size: 24px; font-weight: 700;
+} */
+
+/* ------------------------------------------------------------------ */
+/* exercise 3: */
+
+/* .button1,
+.button2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+}
+
+.button2 {
+    background-color: yellow;
+} */
+
+
+/* ------------------------------------------------------------------ */
+/* exercise 4: */
+
+/* .avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+} */
+
+/* ------------------------------------------------------------------ */
+/* exercise 5: */
+
+/* .container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* ------------------------------------------------------------------ */
+/* exercise 6: */
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.para,
+.small-para {
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
+}
+
+.para {
+    font-size: 22px;
+  }
+
+.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+
+
+.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
+
+.child {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 14px;
+    }
